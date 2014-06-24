@@ -1,0 +1,27 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl massive2
+Ka  0.21 0.13 0.05
+Kd  0.71 0.43 0.18
+Ks  0.39 0.27 0.17
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl Silver2
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl glass
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  10.0
+illum 2
+#
+# EOF

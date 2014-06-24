@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>architecture.png</file>
+        <file>textures/wall/interieur/WallpaperForties0002_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperForties0013_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperForties0022_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperForties0033_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperForties0057_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperForties0073_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperForties0076_thumbhuge.jpg</file>
+        <file>textures/wall/interieur/WallpaperSeventies0043_thumbhuge.jpg</file>
+        <file>textures/wall/exterieur/BrickSmallNew0046_1_thumblarge.jpg</file>
+        <file>textures/wall/exterieur/BrickSmallNew0099_5_thumblarge.jpg</file>
+        <file>textures/wall/exterieur/brique-blanche-metro-a.jpg</file>
+        <file>textures/wall/exterieur/wall2.jpg</file>
+        <file>textures/floor/moquette.jpg</file>
+        <file>textures/floor/moquette1.jpg</file>
+        <file>textures/floor/TilesOrnate0020_2_thumbhuge.jpg</file>
+        <file>textures/floor/TilesOrnate0106_4_thumblarge.jpg</file>
+        <file>textures/floor/TilesOrnate0180_2_thumblarge.jpg</file>
+        <file>textures/floor/TilesPlain0057_7_thumblarge.jpg</file>
+        <file>textures/floor/TilesPlain0074_9_thumblarge.jpg</file>
+    </qresource>
+</RCC>
